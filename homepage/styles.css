@@ -1,0 +1,67 @@
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    background-color: crimson;
+    font-size: 100px;
+    padding: 0.40em;
+    color: black;
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    padding: 0.20em;
+    background-color: red;
+    color: black;
+    font-size: 30px;
+
+}
+
+h3 {
+
+    padding: 0.10em;
+    background-color: orange red;
+
+}
+
+body {
+    text-align: center;
+    background-color: salmon;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.apple {
+    text-align: left;
+    font-size: 20px;
+}
+
+.orange {
+    text-align: middle;
+    font-size: 20px;
+}
+
+.underline {
+    text-align: middle;
+    font-size: 30px;
+    text-decoration: underline;
+    padding: 0.40em;
+
+
+}
+
+.middle {
+    text-align: middle;
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    padding: 0.50em;
+
+}
+
+.list {
+    font-size: 25px;
+}
+
+.title {
+    text-align: center;
+    font-size: 20px;
+}
